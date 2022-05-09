@@ -27,7 +27,7 @@ The school summary saw similar miniscule changes that can be seen below.
 <br>
 <br>
 
-The results also slightly affected by fractions of a percentage the following:
+The results also slightly affected, by fractions of a percentage, the following:
 - Math and reading scores for 9th grade
 - Scores for medium school size when filtering by school size
 - Scores for charter schols when filtering by school type 
