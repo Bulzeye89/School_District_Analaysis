@@ -31,6 +31,7 @@ The results also slightly affected by fractions of a percentage of the following
 - Scores for charter schols when filtering by school type 
 
 When running the following code:
+    
     '# Sort and show top five schools.
         top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
 
