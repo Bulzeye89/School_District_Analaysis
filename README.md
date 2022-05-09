@@ -26,9 +26,9 @@ The school summary saw similar miniscule changes that can be seen below.
 <br>
 <br>
 The results also slightly affected by fractions of a percentage of the following:
-- Math and reading scores for 9th grade
-- Scores for medium school size when filtering by school size
-- Scores for charter schols when filtering by school type 
+    - Math and reading scores for 9th grade
+    - Scores for medium school size when filtering by school size
+    - Scores for charter schols when filtering by school type 
 
 When running the following code:
     
@@ -36,7 +36,7 @@ When running the following code:
         top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
         top_schools.head()
 
-The removal of 461 9th grade Thomas High students' scores being changed to NaNs 
+The removal of 461 9th grade Thomas High students' scores being changed to NaNs, similarly had frational percentage changes that Thomas High School was the 2nd school with or without the grades included.  
 
 
 
