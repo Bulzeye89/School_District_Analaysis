@@ -44,6 +44,6 @@ The removal of 461 9th grade Thomas High students' scores being changed to NaNs 
 
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In an effort to uphold state testing standards in light of the evidence of academic dishonesty, only small fractional percentage changes were made that ultimately had no significant change to results of the data.  The school board can be advised that the 9th grade students from Thomas High School reading and math scores have been removed.  With the removal of the data, Thomas High still ranked second out of all the schools while other insights of the analysis held true and and virtually almost unchanged such as the district's overall scores, 9th grade overall scores, school sizes scores, and charter school scores.  In addition, I would like to note that while the scores of the 9th grade Thomas High students were changed to Nans, their count was not deducted from overall student count column as this would have affected other things suchs as per student budget.  
 
 
