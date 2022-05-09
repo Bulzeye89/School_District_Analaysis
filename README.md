@@ -7,6 +7,10 @@ After completing the school district analysis for Maria and her supervisor, they
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
+<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Module%20District_Summary_df.png">
+
+<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Challenge%20District_summary_df.png">
+
 How is the district summary affected?
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
