@@ -10,6 +10,7 @@ After refactoring the original code to replace Thomas High school ninth graders 
 <img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Module%20District_Summary_df.png">
 
 while this imsage is the district summary dataframe with the scores changed to Nans.
+<br>
 <img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Challenge%20District_summary_df.png">
 
 How is the district summary affected?
