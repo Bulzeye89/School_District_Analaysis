@@ -39,7 +39,7 @@ In addition, when running the following code:
         top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
         top_schools.head()
 
-The removal of 461 9th grade Thomas High students' scores being changed to NaNs similarly had frational percentage changes that Thomas High School was the 2nd school with or without the grades included.  
+The removal of 461 9th grade Thomas High students' scores being changed to NaNs similarly resulted in fractional percentage differences, but Thomas High School still remained the 2nd school overall.  
 
 
 
