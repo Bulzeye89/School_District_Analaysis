@@ -5,10 +5,11 @@ After completing the school district analysis for Maria and her supervisor, they
 
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions.
+After refactoring the original code to replace Thomas High school ninth graders reading and math scores, we reviewed the results and saw that was only miniscule changes.  The image shows the district summary dataframe with the scores included,  
 
 <img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Module%20District_Summary_df.png">
 
+while this imsage is the district summary dataframe with the scores changed to Nans.
 <img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Challenge%20District_summary_df.png">
 
 How is the district summary affected?
