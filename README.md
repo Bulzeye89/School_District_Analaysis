@@ -34,8 +34,8 @@ When running the following code:
     
     '# Sort and show top five schools.
         top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
+        top_schools.head()
 
-top_schools.head()
 The removal of 461 9th grade Thomas High students' scores being changed to NaNs 
 
 
